@@ -1,0 +1,14 @@
+Step 1: Creating a Telegram bot
+1.1 Login to telegram account and go to BotFather
+1.2 give commands
+		/start - to start the BotFather bot
+		/newbot - to create you own bot
+1.3 give name to your bot like "juje12bot" is mine.
+1.4 give unique username to your bot like "jujebot" is mine.
+1.5 Now you will get a token to access HTTP API. 
+		
+Step 2: Install telepot package in python to code the bot in python.
+
+Step 3: Wite python bot code and run.
+
+Step 4: Send message to bot and bot will give response.
